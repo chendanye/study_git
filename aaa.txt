@@ -1,3 +1,6 @@
 qwertyuop
 asdfghjkl
 zxcvbnm
+
+abcdefg
+hijklmn
